@@ -1,0 +1,17 @@
+path: C:\Users\mclan\Desktop\OSRS FISHING BOT\allDataYOLO\split_dataset
+train: C:\Users\mclan\Desktop\OSRS FISHING BOT\allDataYOLO\split_dataset\train
+val: C:\Users\mclan\Desktop\OSRS FISHING BOT\allDataYOLO\split_dataset\val
+
+names:
+  0: bank
+  1: player
+  2: fishing_spot
+  3: raw
+  4: cooked
+  5: cooking_range
+  6: stairs
+  7: interact_up
+  8: interact_down
+  9: textbox
+  10: bank_screen
+  11: bank_deposit
